@@ -31,7 +31,7 @@
                 O valor da sua conta é de R$ $a</h4></b>
                 </td></tr></table>");
         }else
-            if($clase == "c"){
+            if($classe == "c"){
                  $t = 0.30;
             $a = $gasto * $t;
             $a = ($a * $imp + $a);
